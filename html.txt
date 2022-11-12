@@ -1,0 +1,32 @@
+<html>
+   <head>
+    <body>
+
+     <p>
+       Visual Studio is coding plat form. Once you have coded the web page you can test it by click in g on the bottom right corner called "Go live"
+     </p>
+
+<p>
+ The consol screen is an invisble component that allows you to see the code and erors that occur. To access the consol screen you have to right click any where in the website an you will get an option that says inspect. Click on inspect and you will se consol on the right.   
+</p>
+
+<script>
+
+var name= "Arnav";
+var last_name= "Dembi-Tiku";
+
+var full_name= name.concat(last_name);
+
+var a = 10;
+var b = 5;
+
+var add = a + b ;
+consol.log(add)
+
+
+
+
+
+</script>
+
+    </body>
